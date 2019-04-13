@@ -1,0 +1,29 @@
+# Warm-up Trials:
+
+## "Equal" Condition:
+
+1. 0 common and 12 rare vs. 2 common and 3 rare 
+2. 6 common and 1 rare vs. 2 common and 1 rare
+
+## "Unequal" Condition:
+
+1. 0 common and 12 rare vs. 5 common and 1 rare
+2. 5 common and 1 rare vs. 1 common and 5 rare
+
+# Trials:
+
+- Same size, different proportion:
+	1. 4 common and 1 rare vs. 2 common and 3 rare 
+	2. 8 common and 2 rare vs. 6 common and 4 rare 
+- Different size, same proportion:
+	3. 1 common and 3 rare vs. 2 common and 6 rare 
+	4. 4 common and 1 rare vs. 8 common and 2 rare  
+- Cues of agency:
+	5. 2 common and 2 rare vs. 8 common and 8 rare 
+- Different size, different proportion:
+	6. 4 common and 3 rare vs. 5 common and 3 rare
+- Agency+Probability:
+	7. 2 common and 2 rare vs. 1 common and 3 rare
+	8. 8 common and 8 rare vs. 7 common and 9 rare
+
+* common = blue, rare = white

@@ -1,0 +1,77 @@
+# Experiment Setup
+
+All training and testing trials are counterbalanced, in aggregate, according to which one of the pairs has the highest sampling probability. Participants will be assigned to a condition in alternating order (e.g., the first participant is assigned to _blue_, the second is assigned to _yellow_, etc.). The training trials will be in fixed order and the testing trials will be in random order. The images for the training and testing trials for the _blue_ and _yellow_ conditions can be found in the folders labeled `blue` and `yellow`, respectively.
+
+There are also two experiment versions: _eyes-closed_ and _pouring_. The only difference between them is the cover story and training video participants watch between the cover story and the training trials. For the _eyes-closed_ version, participants are assigned in a cycling fashion (e.g., 1b3y, 3b1y, 3b3y, then back to 1b3y, etc.). For the _pouring_ version, there is only one training video. 
+
+## _Blue_ Condition
+
+### Training/Warm-up Trials
+
+- All vs. Equal:
+	1. 16 blue & 0 yellow vs. 8 blue & 8 yellow (`16b0y_8b8y.png`)
+- All vs. Small Error:
+	2. 7 blue & 9 yellow vs. 16 blue & 0 yellow (`7b9y_16b0y.png`)
+	3. 16 blue & 0 yellow vs. 9 blue & 7 yellow (`16b0y_9b7y.png`)
+- All vs. Large Error:
+	4. 6 blue & 10 yellow vs. 15 blue & 1 yellow (`6b10y_15b1y.png`)
+	5. 15 blue & 1 yellow vs. 10 blue & 6 yellow (`15b1y_10b6y.png`)
+
+### Testing Trials
+
+- Equal vs. Small Error:
+	1. 2 blue & 2 yellow vs. 1 blue & 3 yellow (`2b2y_1b3y.png`)
+	2. 3 blue & 5 yellow vs. 4 blue & 4 yellow (`3b5y_4b4y.png`)
+	3. 8 blue & 8 yellow vs. 7 blue & 9 yellow (`8b8y_7b9y.png`)
+- Equal vs. Large Error:
+	4. 0 blue & 4 yellow vs. 2 blue & 2 yellow (`0b4y_2b2y.png`)
+	5. 4 blue & 4 yellow vs. 2 blue & 6 yellow (`4b4y_2b6y.png`)
+	6. 6 blue & 10 yellow vs. 8 blue & 8 yellow (`6b10y_8b8y.png`)
+- Ratio vs. Small Error:
+	7. 1 blue & 3 yellow vs. 0 blue & 4 yellow (`1b3y_0b4y.png`)
+	8. 1 blue & 7 yellow vs. 2 blue & 6 yellow (`1b7y_2b6y.png`)
+	9. 4 blue & 12 yellow vs. 3 blue & 13 yellow (`4b12y_3b13y.png`)
+- Ratio vs. Large Error:
+	10. 0 blue & 8 yellow vs. 2 blue & 6 yellow (`0b8y_2b6y.png`)
+	11. 4 blue & 12 yellow vs. 2 blue & 14 yellow (`4b12y_2b14y.png`)
+- Same Size, Different Proportion:
+	12. 2 blue & 6 yellow vs. 3 blue & 5 yellow (`2b6y_3b5y.png`)
+	13. 9 blue & 7 yellow vs. 6 blue & 10 yellow (`9b7y_6b10y.png`)
+	14. 2 blue & 14 yellow vs. 9 blue & 7 yellow (`2b14y_9b7y.png`)
+	15. 10 blue & 6 yellow vs. 5 blue & 11 yellow (`10b6y_5b11y.png`)
+
+## _Yellow_ Condition
+
+### Training/Warm-up Trials
+
+- All vs. Equal:
+	1. 16 yellow & 0 blue vs. 8 yellow & 8 blue (`16y0b_8y8b.png`)
+- All vs. Small Error:
+	2. 7 yellow & 9 blue vs. 16 yellow & 0 blue (`7y9b_16y0b.png`)
+	3. 16 yellow & 0 blue vs. 9 yellow & 7 blue (`16y0b_9y7b.png`)
+- All vs. Large Error:
+	4. 6 yellow & 10 blue vs. 15 yellow & 1 blue (`6y10b_15y1b.png`)
+	5. 15 yellow & 1 blue vs. 10 yellow & 6 blue (`15y1b_10y6b.png`)
+
+### Testing Trials
+
+- Equal vs. Small Error:
+	1. 2 yellow & 2 blue vs. 1 yellow & 3 blue (`2y2b_1y3b.png`)
+	2. 3 yellow & 5 blue vs. 4 yellow & 4 blue (`3y5y_4y4b.png`)
+	3. 8 yellow & 8 blue vs. 7 yellow & 9 blue (`8y8y_7y9b.png`)
+- Equal vs. Large Error:
+	4. 0 yellow & 4 blue vs. 2 yellow & 2 blue (`0y4b_2y2b.png`)
+	5. 4 yellow & 4 blue vs. 2 yellow & 6 blue (`4y4b_2y6b.png`)
+	6. 6 yellow & 10 blue vs. 8 yellow & 8 blue (`6y10b_8y8b.png`)
+- Ratio vs. Small Error:
+	7. 1 yellow & 3 blue vs. 0 yellow & 4 blue (`1y3b_0y4b.png`)
+	8. 1 yellow & 7 blue vs. 2 yellow & 6 blue (`1y7b_2y6b.png`)
+	9. 4 yellow & 12 blue vs. 3 yellow & 13 blue (`4y12b_3y13b.png`)
+- Ratio vs. Large Error:
+	10. 0 yellow & 8 blue vs. 2 yellow & 6 blue (`0y8b_2y6b.png`)
+	11. 4 yellow & 12 blue vs. 2 yellow & 14 blue (`4y12b_2y14b.png`)
+- Same Size, Different Proportion:
+	12. 2 yellow & 6 blue vs. 3 yellow & 5 blue (`2y6b_3y5b.png`)
+	13. 9 yellow & 7 blue vs. 6 yellow & 10 blue (`9y7b_6y10b.png`)
+	14. 2 yellow & 14 blue vs. 9 yellow & 7 blue (`2y14b_9y7b.png`)
+	15. 10 yellow & 6 blue vs. 5 yellow & 11 blue (`10y6b_5y11b.png`)
